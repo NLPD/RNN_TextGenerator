@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/Di/Documents/2017Fall/NLG/rnn/out/model_test.ckpt-324"
+all_model_checkpoint_paths: "/Users/Di/Documents/2017Fall/NLG/rnn/out/model_test.ckpt-0"
+all_model_checkpoint_paths: "/Users/Di/Documents/2017Fall/NLG/rnn/out/model_test.ckpt-324"
